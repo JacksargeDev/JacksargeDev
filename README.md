@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img style="text-align: center" src="https://discord.c99.nl/widget/theme-2/926367510847188992.png">
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=JacksargeDev&style=flat-square&color=blue" alt=""/>
